@@ -7,7 +7,7 @@ body {
     color: #333;
   }
   
-  /* Hero Section */
+/* Hero Section */
   .hero {
     position: relative;
     background-image: url('../assets/HomeBackground.jpg'); /* Path to your background image */
@@ -66,70 +66,12 @@ body {
     transition: background-color 0.3s;
   }
   
-  
-  
   .cta-btn:hover {
     background-color: #0057b7;
   }
   
   
-  /* Featured Designers Section 
-  .featured-designers {
-    padding: 50px 20px;
-    text-align: center;
-    background-color: #fff;
-  }
-  
-  .featured-designers h2 {
-    font-size: 2.5rem;
-    margin-bottom: 30px;
-  }
-  
-  .designer-cards {
-    display: flex;
-    justify-content: center;
-    gap: 30px;
-    flex-wrap: wrap;
-  }
-  
-  .designer-card {
-    background-color: #f1f1f1;
-    padding: 20px;
-    border-radius: 10px;
-    width: 250px;
-    text-align: center;
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-    transition: transform 0.3s;
-  }
-  
-  .designer-card:hover {
-    transform: translateY(-10px);
-  }
-  
-  .designer-card img {
-    width: 100%;
-    height: 200px;
-    object-fit: cover;
-    border-radius: 5px;
-  }
-  
-  .view-btn {
-    padding: 10px 20px;
-    background-color: #0057b7;
-    color: white;
-    border: none;
-    font-size: 1rem;
-    cursor: pointer;
-    border-radius: 5px;
-    margin-top: 10px;
-    transition: background-color 0.3s;
-  }
-  
-  .view-btn:hover {
-    background-color: #003f7d;
-  }
-  */
-  /* Services Section */
+/* Services Section */
   .services {
     padding: 50px 20px;
     text-align: center;
@@ -174,8 +116,9 @@ body {
     font-size: 1rem;
     margin-top: 10px;
   }
-  
-  /* Testimonials Section */
+
+
+/* Testimonials Section */
   .testimonials {
     padding: 50px 20px;
     background-color: #fff;
@@ -210,7 +153,7 @@ body {
     font-style: italic;
   }
   
-  /* Footer */
+/* Footer */
   .footer {
     background-color: #022d58;
     color: white;
@@ -220,77 +163,6 @@ body {
   }
   
 
-/* Deep Color Home Page with Interactive Effects */
-/*.home-container {
-    background: linear-gradient(to right, #011e3b, #05386c); 
-    color: rgb(248, 244, 244);
-    height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    padding: 0 20px;
-    border-radius: 30px;
-  }
-  
-  .intro {
-    max-width: 700px;
-    background: rgba(255, 255, 255, 0.1); 
-    padding: 40px;
-    border-radius: 12px; 
-    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.4); 
-    transition: transform 0.3s ease, box-shadow 0.3s ease; 
-  }
-  
-  .intro:hover {
-    transform: translateY(-10px); 
-    box-shadow: 0px 16px 32px rgba(0, 0, 0, 0.6); 
-  }
-  
-  .intro h1 {
-    font-size: 3rem;
-    margin-bottom: 20px;
-    font-family: 'Helvetica Neue', sans-serif;
-    font-weight: 700;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-  }
-  
-  .intro p {
-    font-size: 1.2rem;
-    font-family: 'Arial', sans-serif;
-    font-weight: 300;
-    line-height: 1.6;
-  }
-  
-  button {
-    background-color: #f1c40f; 
-    color: white;
-    border: none;
-    padding: 12px 24px;
-    border-radius: 30px; 
-    font-size: 1.1rem;
-    cursor: pointer;
-    margin-top: 20px;
-    font-family: 'Arial', sans-serif;
-    transition: all 0.3s ease-in-out, transform 0.2s ease;
-  }
-  
-  button:hover {
-    background-color: #d4ac0d; 
-    transform: scale(1.05);
-    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.4);
-  }
-  
-  @media (max-width: 768px) {
-    .intro h1 {
-      font-size: 2.5rem;
-    }
-  
-    .intro p {
-      font-size: 1rem;
-    }
-  }*/
 /* Navbar Styles with Rounded Corners and Effects */
 .navbar {
     display: flex;
@@ -369,7 +241,7 @@ body {
   }
   
 
-  /* SearchBar */
+/* SearchBar */
 .search-bar {
     display: flex;
   justify-content: center;
@@ -384,7 +256,8 @@ body {
     border-radius: 8px;
   }
   
-  /* DesignerCard */
+  
+/* DesignerCard */
   .designer-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
@@ -440,8 +313,7 @@ body {
   }
   
 
-  /* LoginForm */
-
+/* LoginForm */
   .login-form {
     max-width: 400px;
     margin: 0 auto;
