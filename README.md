@@ -1,12 +1,33 @@
-# React + Vite
+# DesignHire
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🖼️ Project Title  
+**DesignHire – Interior Designer Browsing Platform**
 
-Currently, two official plugins are available:
+## 📝 Description  
+DesignHire is a stylish and user-friendly web platform that allows users to browse interior designers. Clients can view designer profiles, explore portfolios, and save their favorite professionals. It's built with a sleek, modern UI tailored for design enthusiasts and clients seeking personalized interior solutions.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌟 Features
 
-## Expanding the ESLint configuration
+- Browse interior designer profiles
+- View portfolios and design samples
+- Save favorite designers for easy access
+- Responsive and chic UI
+- Seamless navigation between pages
+- Login to save designers and refer to them later
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js + Vite  
+- **Styling:** CSS  
+- **Routing:** React Router  
+- **State Management:** React Hooks (`useState`, `useContext`,`useNavigate`)  
+- **Deployment:** GitHub Pages  
+- **Version Control:** Git & GitHub  
+
+## ⚙️ Setup Instructions
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/khushi512/DesignHireProject.git
+   cd DesignHireProject
