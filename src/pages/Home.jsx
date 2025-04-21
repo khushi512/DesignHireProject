@@ -70,23 +70,6 @@ const Home = () => {
 
 export default Home;
 
-
-
-/*import React from 'react';
-
-const Home = () => {
-  return (
-    <div className="home-container">
-      <div className="intro">
-        <h1>Welcome to DesignHire</h1>
-        <p>
-          Connect with talented freelance designers and bring your creative ideas to life. Discover, save, and hire the perfect designer for your project.
-        </p>
-      </div>
-    </div>
-  );
-};
-
-export default Home;*/
-// // This code defines a Home component that serves as the landing page for the DesignHire application. It includes a welcome message and a brief description of the platform's purpose, which is to connect users with freelance designers.
-// // The component is styled with CSS classes for better presentation. It is designed to be user-friendly and visually appealing, providing a warm welcome to users as they enter the application. The Home component is part of a larger application that includes features for browsing, saving, and hiring designers.
+// // This code defines a Home component that serves as the landing page. 
+// // It includes a welcome message and a brief description of the platform's purpose, which is to connect users with freelance designers.
+// // The component is styled with CSS classes for better presentation. 
