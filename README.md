@@ -51,3 +51,6 @@ DesignHire is a stylish and user-friendly web platform that allows users to brow
 
    ```bash
    npm run deploy
+
+## Local Host Link
+   http://localhost:5173/
