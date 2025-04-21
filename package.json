@@ -4,16 +4,14 @@
   "version": "0.0.0",
   "type": "module",
   "homepage": "https://khushi512.github.io/DesignHireProject",
-
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d build"
   },
-  
   "dependencies": {
     "gh-pages": "^6.3.0",
     "react": "^19.0.0",
